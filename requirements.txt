@@ -6,3 +6,7 @@ pytest
 joblib
 scikit-learn
 tensorflow
+matplotlib
+seaborn
+tabulate
+tqdm
